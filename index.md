@@ -4,7 +4,6 @@ OneManGameMakerArmy built this app as an Ad Supported app. This SERVICE is provi
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. 
 ## Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to an optional maker account which is used to upload your levels. This account is stored in a cloud service (in Google Firebase).
 The app does use third party services that may collect information used to identify you. (Unity ads and Unity Analytics to improve gaming experience by logging crashes and level completion data, to see where people get stuck) 
 ## Link to privacy policy of third party service providers used by the app:
 https://unity3d.com/legal/privacy-policy
