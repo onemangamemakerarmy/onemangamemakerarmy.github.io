@@ -5,9 +5,8 @@ This page is used to inform visitors regarding my policies with the collection, 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. 
 ## Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to an optional maker account which is used to upload your levels. This account is stored in a cloud service (in Google Firebase).
-The app does use third party services that may collect information used to identify you. (Google Admob to display relevant ads for you, and Unity Analytics to improve gaming experience by logging crashes) 
+The app does use third party services that may collect information used to identify you. (Unity ads and Unity Analytics to improve gaming experience by logging crashes and level completion data, to see where people get stuck) 
 ## Link to privacy policy of third party service providers used by the app:
-https://policies.google.com/technologies/partner-sites
 https://unity3d.com/legal/privacy-policy
 ## Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. 
